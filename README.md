@@ -4,4 +4,4 @@ Constructor's body is syncrhonous. A constructor always return the type of the c
 
 Foo: is set already as an async Task 
 
-Program: then program do the job of initializing it 
+Program: then the client will recognize this member and'll remember to call it.
